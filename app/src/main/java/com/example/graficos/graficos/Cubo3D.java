@@ -7,7 +7,7 @@ import java.nio.FloatBuffer;
 import javax.microedition.khronos.opengles.GL10;
 
 
-
+//CLASE BASE
     //Clase donde se establecen los parámetros para construir un cubo en 3 dimensiones.
     public class Cubo3D {
 
