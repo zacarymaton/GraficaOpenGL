@@ -16,7 +16,7 @@ import android.widget.Toast;
  */
 
 public class DibujarForma implements Renderer {
-
+// hay muchos atributos basura puede quitarlos adivene los reto jeje
     private Cubo3D cubo3D;
     public int ortogonal,perspectiva;
     public volatile float mAngulo;
